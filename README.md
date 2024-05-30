@@ -35,3 +35,5 @@ Outcome:
 Developed a robust and interactive Excel dashboard that provides comprehensive insights into coffee sales data.
 Enabled stakeholders to make data-driven decisions by visualizing sales performance across various dimensions.
 Improved understanding of key sales drivers and customer contributions, facilitating strategic planning and marketing efforts.
+
+Link: https://drive.google.com/drive/folders/1-mN8u1OcTgOvE16QggVaLd6_uUmaXj5M?usp=sharing
